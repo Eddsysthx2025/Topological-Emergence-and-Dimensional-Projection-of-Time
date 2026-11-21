@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org)](https://doi.org)
+
 # Emergência Topológica e Projeção Dimensional do Tempo
 **Topological Emergence and Dimensional Projection of Time**
 
