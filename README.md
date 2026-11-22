@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/1466929110.svg)](https://doi.org/10.5281/zenodo.24428110)
 # Topological Emergence and Dimensional Projection of Time (v1.2.2)
 
-**Author:** E. R. dos Santos  
+**Author:** E. R. dos Santos
 **License:** GNU General Public License v3.0 (GPLv3)
 
 ## Overview
